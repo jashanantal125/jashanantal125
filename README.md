@@ -1,8 +1,5 @@
 # 💫 About Me:
-Final-year Computer Science student at Monash University specializing in Algorithms & Software Development, with a strong focus on full-stack engineering. I build scalable CRM systems, automation workflows, and enterprise-grade applications that connect complex business processes with robust technical solutions. My work includes developing Salesforce solutions using Apex, Lightning Web Components (LWC), and REST API integrations, alongside modern full-stack technologies such as React, Node.js, and Python.
-I have contributed to production systems at LDT Technology, where I worked & interned as a Salesforce & Full Stack Developer, building CRM features, automation workflows, and backend integrations used in real-world business environments. I have also delivered end-to-end software products independently, including an AI-powered CRM platform for visa case management that was successfully deployed and sold to a client. My projects also include an AI-powered mass video generation system built for Vodafone and a scalable mobile consultancy platform connecting consultants and clients globally.
-Beyond engineering, I compete internationally as a table tennis athlete, representing my country in international tournaments and winning medals at the Australian National level. This competitive background shapes my approach to software engineering—I bring the same discipline, precision, and persistence to building software systems as I do to high-performance sport.
-I’m passionate about building impactful software and currently seeking opportunities to contribute to innovative teams working on Salesforce platforms, cloud systems, and scalable full-stack applications.
+Final-year Computer Science student at Monash University specializing in Algorithms & Software Development, with a strong focus on full-stack engineering. 
 
 
 ## 🌐 Socials:
